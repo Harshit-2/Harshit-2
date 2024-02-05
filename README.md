@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Harshit</h1>
+<h3 align="center">I'm a Full Stack Web Developer, currently learning iOS Development</h3>
 
 <p align="space-around"> <img
         src="https://komarev.com/ghpvc/?username=Harshit-2&label=Profile%20views&color=0e75b6&style=flat"
@@ -26,6 +27,19 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=Harshit-2" alt="Harshit-2" /></a> </p>
 
+<br>
+
+- 🔭 I’m currently working on Expense Tracker Website
+
+- 🌱 I’m currently learning **iOS Development and Swift**
+
+- 👯 I’m looking to collaborate on **any open source projects**
+
+- 👨‍💻 Most of my projects are available at https://github.com/Harshit-2
+
+- 📫 How to reach me **harshit53287@gmail.com**
+
+<br>
 
 
 <!-- <h3 align="left">Connect with me:</h3>
