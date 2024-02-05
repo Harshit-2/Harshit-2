@@ -55,7 +55,9 @@ Here are some ideas to get you started:
             src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="40"
             height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.svgrepo.com/show/303251/mysql-logo.svg"
-            alt="MySQL" width="40" height="40" /> </a> <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer">
+            alt="MySQL" width="40" height="40" /> </a> <a href="https://www.oracle.com/in/database/" target="_blank" rel="noreferrer"> <img
+          src="https://companieslogo.com/img/orig/ORCL-d5a587ae.png?t=1633210264g"
+          alt="Oracle" width="40" height="40" /> </a>  <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/pugpugjs.svg" alt="Pug"
             width="40" height="40" /> </a> <a href="https://www.javatpoint.com/c-programming-language-tutorial"
         target="_blank" rel="noreferrer"> <img
