@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Harshit</h1>
-<h3 align="center">I'm a Full Stack Web Developer, currently learning iOS Development</h3>
+<h3 align="center">I'm a Full Stack Web Developer, currently learning iOS Development!</h3>
 
 <p align="space-around"> <img
         src="https://komarev.com/ghpvc/?username=Harshit-2&label=Profile%20views&color=0e75b6&style=flat"
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=Harshit-2&show_icons=true&locale=en" alt="Harshit-2" />
 </p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-2&" alt="Harshit-2" /></p>
 
 
 
