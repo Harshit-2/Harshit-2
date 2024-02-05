@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=Harshit-2" alt="Harshit-2" /></a> </p>
 
-<be>
+<hr>
 
 <!-- - 🔭 I’m currently working on Expense Tracker Website
 
