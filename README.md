@@ -40,14 +40,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me **harshit53287@gmail.com** -->
 
 - 🪂 HTML: senior
-- 🦈 CSS: senior
-- 😊 TailwindCSS: intermediate
-- 📦 JavaScript: junior
-- 🎁 NodeJS: intermediate
+- 🪺 CSS: senior
+- 🍃 TailwindCSS: intermediate
+- ⛱️ JavaScript: junior
+- 🌱 NodeJS: intermediate
 - 👀 C/C++: intermediate
 - 🐍 Java/Python: intermediate
-- 🎨 Swift: intermediate
-- 🖼️ MySQL: intermediate
+- 🏖️ Swift: intermediate
+- ⛲ MySQL: intermediate
 - ⚓ MongoDB: intermediate
 - ♨️ Oracle: junior
 - 💭 Pronouns: he/him
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
             alt="MySQL" width="40" height="40" /> </a> <a href="https://www.oracle.com/in/database/" target="_blank" rel="noreferrer"> <img
           src="https://companieslogo.com/img/orig/ORCL-d5a587ae.png?t=1633210264g"
           alt="Oracle" width="40" height="40" /> </a>  <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/pugpugjs.svg" alt="Pug"
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pugjs_logo_icon_170825.png" alt="Pug"
             width="40" height="40" /> </a> <a href="https://www.javatpoint.com/c-programming-language-tutorial"
         target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"
