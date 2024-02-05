@@ -62,19 +62,11 @@ Here are some ideas to get you started:
             src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"
             alt="C" width="40" height="40" /> </a> <a href="https://www.javatpoint.com/cpp-tutorial" target="_blank"
         rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"
-            height="40" /> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
+            height="40" /> </a> <a href="https://dev.java/learn/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"
-            height="40" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"
-            width="40" height="40" /> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" />
-    </a> </p>
+            height="40" /> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python"
+            width="40" height="40" /> </a></p>
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshit-2&show_icons=true&locale=en&layout=compact"
