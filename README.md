@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=Harshit-2" alt="Harshit-2" /></a> </p>
 
-<br>
+<be>
 
-- 🔭 I’m currently working on Expense Tracker Website
+<!-- - 🔭 I’m currently working on Expense Tracker Website
 
 - 🌱 I’m currently learning **iOS Development and Swift**
 
@@ -37,7 +37,22 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Most of my projects are available at https://github.com/Harshit-2
 
-- 📫 How to reach me **harshit53287@gmail.com**
+- 📫 How to reach me **harshit53287@gmail.com** -->
+
+- 🪂 HTML: senior
+- 🦈 CSS: senior
+- 😊 TailwindCSS
+- 📦 JavaScript: junior
+- 🎁 NodeJS: intermediate
+- 👀 C/C++: intermediate
+- 🐍 Java/Python: intermediate
+- 🎨 Swift: intermediate
+- 🖼️ MySQL: intermediate
+- ⚓ MongoDB: intermediate
+- ♨️ Oracle: junior
+- 💭 Pronouns: he/him
+- 📫 E-mail: [harshit53287@gmail.com](mailto:harshit53287@gmail.com)
+- 💬 Telegram: [@Mrharshit02](https://t.me/Mrharshit02)
 
 <br>
 
