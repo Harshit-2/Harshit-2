@@ -95,4 +95,4 @@ Here are some ideas to get you started:
 
 
 
-<!-- [![An image of @harshit2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshit2)](https://holopin.io/@harshit2) -->
+[![An image of @harshit2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshit2)](https://holopin.io/@harshit2)
