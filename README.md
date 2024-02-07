@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **harshit53287@gmail.com** -->
 
 - 🪂 HTML: senior
-- 🪺 CSS: senior
+- 🔭 CSS: senior
 - 🍃 TailwindCSS: intermediate
 - ⛱️ JavaScript: junior
 - 🌱 NodeJS: intermediate
