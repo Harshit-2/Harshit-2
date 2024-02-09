@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - ⚓ MongoDB: intermediate
 - ♨️ Oracle: junior
 - 💭 Pronouns: he/him
-- 📫 E-mail: [harshit53287@gmail.com](mailto:harshit53287@gmail.com)
+- 📫 E-mail: [harshit242003@hotmail.com](mailto:harshit242003@hotmail.com)
 - 💬 Telegram: [@Mrharshit02](https://t.me/Mrharshit02)
 
 <br>
