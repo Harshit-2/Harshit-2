@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img
-            src="https://www.svgrepo.com/show/452110/swift.svg" alt="Swift" width="40" height="40" />
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" />
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /> </a>
     <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img
@@ -81,26 +81,26 @@ Here are some ideas to get you started:
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="JS" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank"
         rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
             alt="Tailwind" width="40" height="40" /> </a> <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank"
         rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40"
             height="40" /> </a> <a href="https://www.mongodb.com/docs/guides/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"
             height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.svgrepo.com/show/303251/mysql-logo.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="MySQL" width="40" height="40" /> </a> <a href="https://www.oracle.com/in/database/" target="_blank" rel="noreferrer"> <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
           alt="Oracle" width="40" height="40" /> </a>  <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pugjs_logo_icon_170825.png" alt="Pug"
             width="40" height="40" /> </a> <a href="https://www.javatpoint.com/c-programming-language-tutorial"
         target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
             alt="C" width="40" height="40" /> </a> <a href="https://www.javatpoint.com/cpp-tutorial" target="_blank"
         rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"
             height="40" /> </a> <a href="https://dev.java/learn/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"
             height="40" /> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"
             width="40" height="40" /> </a></p>
 
 <p><img align="left"
