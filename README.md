@@ -68,7 +68,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img
-            src="https://www.svgrepo.com/show/452110/swift.svg" alt="Swift" width="40" height="40" /> </a>
+            src="https://www.svgrepo.com/show/452110/swift.svg" alt="Swift" width="40" height="40" />
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /> </a>
     <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="HTML" width="40" height="40" /> </a> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"
@@ -87,7 +89,7 @@ Here are some ideas to get you started:
             height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.svgrepo.com/show/303251/mysql-logo.svg"
             alt="MySQL" width="40" height="40" /> </a> <a href="https://www.oracle.com/in/database/" target="_blank" rel="noreferrer"> <img
-          src="https://companieslogo.com/img/orig/ORCL-d5a587ae.png?t=1633210264g"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
           alt="Oracle" width="40" height="40" /> </a>  <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pugjs_logo_icon_170825.png" alt="Pug"
             width="40" height="40" /> </a> <a href="https://www.javatpoint.com/c-programming-language-tutorial"
