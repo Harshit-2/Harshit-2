@@ -85,7 +85,7 @@ Here are some ideas to get you started:
             alt="Tailwind" width="40" height="40" /> </a> <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank"
         rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40"
             height="40" /> </a> <a href="https://www.mongodb.com/docs/guides/" target="_blank" rel="noreferrer"> <img
-            src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="40"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"
             height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.svgrepo.com/show/303251/mysql-logo.svg"
             alt="MySQL" width="40" height="40" /> </a> <a href="https://www.oracle.com/in/database/" target="_blank" rel="noreferrer"> <img
