@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 
 <p align="space-around"> <img
         src="https://komarev.com/ghpvc/?username=Harshit-2&label=Profile%20views&color=0e75b6&style=flat"
-        alt="Harshit-2" /> </p>
+        alt="Harshit's Profile Viewers" /> </p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshit-2&column=-1" alt="Harshit's GitHub trophy">
+</div>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
