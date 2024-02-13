@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=Harshit-2&column=-1" alt="Harshit's GitHub trophies"> -->
         <img src="https://github-trophies.vercel.app/?username=Harshit-2" alt="Harshit's GitHub trophies">
+<!--         <img src="https://github-trophies.vercel.app/?username=Harshit-2&title=MultiLanguage,LongTimeUser,NewUser,Stars,Commits,PullRequest,Repositories,Followers,Issues" alt="Harshit's GitHub trophies"> -->
 </div>
-
 
 <hr>
 
