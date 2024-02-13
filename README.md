@@ -25,7 +25,7 @@ Here are some ideas to get you started:
         alt="Harshit's Profile Viewers" /> </p>
 
 <div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshit-2&column=-1" alt="Harshit's GitHub trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshit-2&column=-1" alt="Harshit's GitHub trophies">
 </div>
 
 
