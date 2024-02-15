@@ -75,12 +75,12 @@ Here are some ideas to get you started:
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /> </a>
              <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/realm/realm-original.svg" alt="Realm" width="40" height="40" /> 
-        <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="HTML" width="40" height="40" /> </a> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"
+            alt="HTML" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="CSS" width="40" height="40" /> </a> <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"
+            alt="CSS" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="JS" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank"
