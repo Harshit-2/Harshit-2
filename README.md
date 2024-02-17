@@ -70,44 +70,56 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" />
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" /> </a>
+        
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /> </a>
              <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/realm/realm-original.svg" alt="Realm" width="40" height="40" /> 
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/realm/realm-original.svg" alt="Realm" width="40" height="40" /> </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="HTML" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"
+            alt="HTML" width="40" height="40" /> </a>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="CSS" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+            alt="CSS" width="40" height="40" /> </a> 
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="JS" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank"
+            alt="JS" width="40" height="40" /> </a>
+            <a href="https://tailwindcss.com/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
             alt="Tailwind" width="40" height="40" /> </a> 
                      <a href="https://getbootstrap.com/" target="_blank"
         rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40"
-            height="40" /> 
-                     <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank"
+            height="40" /> </a>
+        <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank"
         rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40"
-            height="40" /> </a> <a href="https://www.mongodb.com/docs/guides/" target="_blank" rel="noreferrer"> <img
+            height="40" /> </a>
+            <a href="https://www.mongodb.com/docs/guides/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"
-            height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+            height="40" /> </a>
+            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="MySQL" width="40" height="40" /> </a> <a href="https://www.oracle.com/in/database/" target="_blank" rel="noreferrer"> <img
+            alt="MySQL" width="40" height="40" /> </a>
+            <a href="https://www.oracle.com/in/database/" target="_blank" rel="noreferrer"> <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-          alt="Oracle" width="40" height="40" /> </a>  <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer">
+          alt="Oracle" width="40" height="40" /> </a> 
+          <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pugjs_logo_icon_170825.png" alt="Pug"
-            width="40" height="40" /> </a> <a href="https://www.javatpoint.com/c-programming-language-tutorial"
+            width="40" height="40" /> </a> 
+            <a href="https://www.javatpoint.com/c-programming-language-tutorial"
         target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-            alt="C" width="40" height="40" /> </a> <a href="https://www.javatpoint.com/cpp-tutorial" target="_blank"
+            alt="C" width="40" height="40" /> </a> 
+            <a href="https://www.javatpoint.com/cpp-tutorial" target="_blank"
         rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"
-            height="40" /> </a> <a href="https://dev.java/learn/" target="_blank" rel="noreferrer"> <img
+            height="40" /> </a>
+            <a href="https://dev.java/learn/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"
-            height="40" /> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
+            height="40" /> </a> 
+            <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"
             width="40" height="40" /> </a></p>
 
