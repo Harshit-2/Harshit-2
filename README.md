@@ -130,7 +130,7 @@ Here are some ideas to get you started:
          src="https://github-readme-stats.vercel.app/api?username=Harshit-2&theme=buefy&show_icons=true" alt="Harshit's GitHub Stats" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-2&" alt="Harshit's Contributions" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-2&theme=light" alt="Harshit's Contributions" /></p>
 
 
 <!-- [![An image of @harshit2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshit2)](https://holopin.io/@harshit2) -->
