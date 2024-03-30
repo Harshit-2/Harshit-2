@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - 🪂 HTML: senior
 - 🔭 CSS: senior
 - 🍃 TailwindCSS: intermediate
-- 🧬 JavaScript: junior
+- 🧬 JavaScript: intermediate
 - 🌱 NodeJS: intermediate
 - 👀 C/C++: intermediate
 - 🐍 Java/Python: intermediate
