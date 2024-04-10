@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **harshit53287@gmail.com** -->
 
 - 🪂 HTML: senior
+- 🎨 EJS: intermediate
 - 🔭 CSS: senior
 - 🍃 TailwindCSS: intermediate
 - 🧬 JavaScript: intermediate
