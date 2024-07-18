@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 - 🍃 TailwindCSS: intermediate
 - 🧬 JavaScript: intermediate
 - 🌱 NodeJS: intermediate
+- 🍁 Figma: intermediate
 - 👀 C/C++: intermediate
 - 🐍 Java/Python: intermediate
 - 🏖️ Swift: intermediate
