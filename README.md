@@ -98,6 +98,9 @@ Here are some ideas to get you started:
         <a href="https://www.figma.com/" target="_blank"
         rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Bootstrap" width="40"
             height="40" /> </a>
+        <a href="https://git-scm.com/docs" target="_blank"
+        rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Bootstrap" width="40"
+            height="40" /> </a>
         <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank"
         rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40"
             height="40" /> </a>
