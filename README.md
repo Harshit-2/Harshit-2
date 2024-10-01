@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 - ⛲ MySQL: intermediate
 - ⚓ MongoDB: intermediate
 - ♨️ Oracle: junior
+- 🎃 Git: intermediate
 - 🐋 Docker: junior
 - 💭 Pronouns: he/him
 - 📫 E-mail: [harshit242003@hotmail.com](mailto:harshit242003@hotmail.com)
