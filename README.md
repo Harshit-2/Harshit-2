@@ -43,21 +43,21 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **harshit53287@gmail.com** -->
 
-- 🪂 HTML: senior
-- 🎨 EJS: intermediate
-- 🔭 CSS: senior
-- 🍃 TailwindCSS: intermediate
-- 🧬 JavaScript: intermediate
-- 🌱 NodeJS: intermediate
-- 🍁 Figma: intermediate
-- 👀 C/C++: intermediate
-- 🐍 Java/Python: intermediate
-- 🏖️ Swift: intermediate
-- ⛲ MySQL: intermediate
-- ⚓ MongoDB: intermediate
-- ♨️ Oracle: junior
-- 🎃 Git: intermediate
-- 🐋 Docker: junior
+- 🪂 HTML
+- 🎨 EJS
+- 🔭 CSS
+- 🍃 TailwindCSS
+- 🧬 JavaScript
+- 🌱 NodeJS
+- 🍁 Figma
+- 👀 C/C++
+- 🐍 Java/Python
+- 🏖️ Swift
+- ⛲ MySQL
+- ⚓ MongoDB
+- ♨️ Oracle
+- 🎃 Git
+- 🐋 Docker
 - 💭 Pronouns: he/him
 - 📫 E-mail: [harshit242003@hotmail.com](mailto:harshit242003@hotmail.com)
 - 💬 Telegram: [@Mrharshit02](https://t.me/Mrharshit02)
