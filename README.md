@@ -50,13 +50,13 @@ Here are some ideas to get you started:
 - 🧬 JavaScript
 - 🌱 NodeJS
 - 🍁 Figma
-- 👀 C/C++
+- 🎃 C/C++
 - 🐍 Java/Python
 - 🏖️ Swift
 - ⛲ MySQL
 - ⚓ MongoDB
 - ♨️ Oracle
-- 🎃 Git
+- 🐱 Git
 - 🐋 Docker
 <!-- - 💭 Pronouns: he/him -->
 - 📫 E-mail: [harshit242003@hotmail.com](mailto:harshit242003@hotmail.com)
