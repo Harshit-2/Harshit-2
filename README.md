@@ -44,17 +44,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me **harshit53287@gmail.com** -->
 
 - 🪂 HTML
-- 🎨 EJS
-- 🔭 CSS
+- 🍁 EJS
+- 🎨 CSS
 - 🍃 TailwindCSS
-- 🧬 JavaScript
-- 🌱 NodeJS
-- 🍁 Figma
+- 🧠 JavaScript
+- 🧬 NodeJS
+- 🌈 Figma
 - 🎃 C/C++
 - 🐍 Java/Python
-- 🏖️ Swift
-- ⛲ MySQL
-- ⚓ MongoDB
+- 🐦‍🔥 Swift
+- 🏖️ MySQL
+- 🌱 MongoDB
 - ♨️ Oracle
 - 🐱 Git
 - 🐋 Docker
