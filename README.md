@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 - ♨️ Oracle
 - 🐱 Git
 - 🐋 Docker
-<!-- - 💭 Pronouns: he/him -->
 - 📫 E-mail: [harshit242003@hotmail.com](mailto:harshit242003@hotmail.com)
 - 💬 Telegram: [@Mrharshit02](https://t.me/Mrharshit02)
 
