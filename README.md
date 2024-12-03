@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Harshit</h1>
-<h3 align="center">I'm a Full Stack Web Developer & iOS Developer!</h3>
+<h3 align="center">I am a Full Stack Web Developer and an iOS Developer!</h3>
 
 <p align="space-around"> <img
         src="https://komarev.com/ghpvc/?username=Harshit-2&label=Profile%20views&color=0e75b6&style=flat"
