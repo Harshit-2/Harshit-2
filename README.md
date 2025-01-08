@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - 🍃 TailwindCSS
 - 🧠 JavaScript
 - 🧬 NodeJS
-- 🦋 React
+- 🦋 React.js
 - 🌈 Figma
 - 🎃 C/C++
 - 🐍 Java/Python
