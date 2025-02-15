@@ -81,6 +81,8 @@ Here are some ideas to get you started:
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /> </a>
              <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/realm/realm-original.svg" alt="Realm" width="40" height="40" /> </a>
+        <a href="https://developer.apple.com/documentation/coredata" target="_blank" rel="noreferrer"> <img
+            src="https://miro.medium.com/v2/resize:fit:300/1*nm4j_6GfwWpqhuSPlbO-sg.png" alt="Core Data" width="40" height="40" /> </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="HTML" width="40" height="40" /> </a>
