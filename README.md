@@ -78,7 +78,7 @@ Here are some ideas to get you started:
         <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Swift" width="40" height="40" /> </a>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /> </a>
+            src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40" /> </a>
              <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/realm/realm-original.svg" alt="Realm" width="40" height="40" /> </a>
         <a href="https://developer.apple.com/documentation/coredata" target="_blank" rel="noreferrer"> <img
