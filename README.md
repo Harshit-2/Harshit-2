@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - 🏖️ MySQL
 - 🌱 MongoDB
 - ♨️ Oracle
-- 🐱 Git
+- 🐱 Git/GitHub
 - 🐋 Docker
 - 📫 E-mail: [harshit242003@hotmail.com](mailto:harshit242003@hotmail.com)
 - 💬 Telegram: [@Mrharshit02](https://t.me/Mrharshit02)
@@ -109,6 +109,10 @@ Here are some ideas to get you started:
             height="40" /> </a>
         <a href="https://www.figma.com/" target="_blank"
         rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Bootstrap" width="40"
+            height="40" /> </a>
+        <a href="https://learngitbranching.js.org/" target="_blank"
+        rel="noreferrer"> <img src="
+        https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Bootstrap" width="40"
             height="40" /> </a>
         <a href="https://git-scm.com/docs" target="_blank"
         rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Bootstrap" width="40"
