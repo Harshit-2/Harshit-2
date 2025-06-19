@@ -105,14 +105,13 @@ Here are some ideas to get you started:
         rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40"
             height="40" /> </a>
         <a href="https://react.dev/" target="_blank"
-        rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Bootstrap" width="40"
+        rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40"
             height="40" /> </a>
         <a href="https://www.figma.com/" target="_blank"
-        rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Bootstrap" width="40"
+        rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40"
             height="40" /> </a>
         <a href="https://learngitbranching.js.org/" target="_blank"
-        rel="noreferrer"> <img src="
-        https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Bootstrap" width="40"
+        rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40"
             height="40" /> </a>
         <a href="https://git-scm.com/docs" target="_blank"
         rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Bootstrap" width="40"
