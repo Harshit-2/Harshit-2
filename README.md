@@ -72,10 +72,13 @@ Here are some ideas to get you started:
 </p>
 
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" /> </a>
-        <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"> <img
+        <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" /> </a>
+        <a href="https://docs.aws.amazon.com/?nc2=h_ql_doc_do" target="_blank" rel="noreferrer"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Swift" width="40" height="40" /> </a>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40" /> </a>
