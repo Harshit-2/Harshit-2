@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 - 🌱 MongoDB
 - ♨️ Oracle
 - 🐱 Git/GitHub
+- ☁️ AWS
 - 🐋 Docker
 - 📫 E-mail: [harshit242003@hotmail.com](mailto:harshit242003@hotmail.com)
 - 💬 Telegram: [@Mrharshit02](https://t.me/Mrharshit02)
