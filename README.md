@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 - 🍃 TailwindCSS
 - 🧠 JavaScript
 - 🧬 NodeJS
-- 🌈 Figma
-- 🎃 C/C++
 - 🐍 Java/Python
+- 🎃 C/C++
+- 🌈 Figma
 - 🏖️ MySQL
 - 🌱 MongoDB
 - ♨️ Oracle
