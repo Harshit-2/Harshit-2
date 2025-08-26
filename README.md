@@ -43,21 +43,22 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **harshit53287@gmail.com** -->
 
+- 🐱 Git/GitHub
+- 🫧 Agile
+- 🐦‍🔥 Swift
+- 🦋 React.js
 - 🪂 HTML
 - 🍁 EJS
 - 🎨 CSS
 - 🍃 TailwindCSS
 - 🧠 JavaScript
 - 🧬 NodeJS
-- 🦋 React.js
 - 🌈 Figma
 - 🎃 C/C++
 - 🐍 Java/Python
-- 🐦‍🔥 Swift
 - 🏖️ MySQL
 - 🌱 MongoDB
 - ♨️ Oracle
-- 🐱 Git/GitHub
 - ☁️ AWS
 - 🐋 Docker
 - 📫 E-mail: [harshit242003@hotmail.com](mailto:harshit242003@hotmail.com)
