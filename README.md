@@ -55,6 +55,9 @@ Here are some ideas to get you started:
 - 🧬 NodeJS
 - 🐍 Java/Python
 - 🎃 C/C++
+- 🧩 .net/C#
+- 🏮 Postman
+- 🍀 Swagger
 - 🌈 Figma
 - 🏖️ MySQL
 - 🌱 MongoDB
