@@ -133,6 +133,12 @@ Here are some ideas to get you started:
           <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer">
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pugjs_logo_icon_170825.png" alt="Pug"
             width="40" height="40" /> </a> 
+        <a href="https://learning.postman.com/" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman"
+            width="40" height="40" /> </a>
+            <a href="https://swagger.io/docs/" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="swagger"
+            width="40" height="40" /> </a>
             <a href="https://www.javatpoint.com/c-programming-language-tutorial"
         target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -145,6 +151,12 @@ Here are some ideas to get you started:
             height="40" /> </a> 
             <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"
+            width="40" height="40" /> </a>
+            <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp"
+            width="40" height="40" /> </a>
+            <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt=".net"
             width="40" height="40" /> </a></p>
 
 <p><img align="left"
